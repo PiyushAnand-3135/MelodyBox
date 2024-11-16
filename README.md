@@ -47,7 +47,7 @@ A simple music bot built using Discord.js and DisTube, which can play songs, pau
 4. Start the bot:
 
     ```bash
-    node index.js
+    node app.js
     ```
 
 ## Usage

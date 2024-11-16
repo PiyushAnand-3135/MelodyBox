@@ -1,5 +1,5 @@
-![Bot Logo](assets/logo.png)
 # 🎶 Discord Music Bot
+![Bot Logo](assets/logo.png)
 
 A simple music bot built using Discord.js and DisTube, which can play songs, pause, resume, skip, and more! This bot allows users to play music directly from YouTube, Spotify, or other sources through simple commands.
 
